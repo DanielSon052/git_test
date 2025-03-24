@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 different branch
+=======
+main branch
+>>>>>>> main
